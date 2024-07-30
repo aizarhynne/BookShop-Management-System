@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B27E74-B59F-4B64-B156-0F55A79E049B}|..\\BookShopManagement\\BookShopManagementWinForm.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37EC00-F2F0-4624-AB14-58283455BFDC}|..\\BookShopAPI\\BookShopAPI.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37EC00-F2F0-4624-AB14-58283455BFDC}|..\\BookShopAPI\\BookShopAPI.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37EC00-F2F0-4624-AB14-58283455BFDC}|..\\BookShopAPI\\BookShopAPI.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopapi\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37EC00-F2F0-4624-AB14-58283455BFDC}|..\\BookShopAPI\\BookShopAPI.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37EC00-F2F0-4624-AB14-58283455BFDC}|..\\BookShopAPI\\BookShopAPI.csproj|c:\\users\\aizar\\source\\repos\\final project\\bookshopapi\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BookShopManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopManagement\\Program.cs",
+              "RelativeToolTip": "..\\BookShopManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:02:55.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\BookShopAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\User.cs",
+              "RelativeToolTip": "..\\BookShopAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:02:07.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookShopAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\Book.cs",
+              "RelativeToolTip": "..\\BookShopAPI\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:02:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "..\\BookShopAPI\\Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Models\\Bill.cs",
+              "RelativeToolTip": "..\\BookShopAPI\\Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:01:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BookShopAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\BookShopAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:59:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "..\\BookShopAPI\\Controllers\\BillsController.cs",
+              "ToolTip": "C:\\Users\\aizar\\source\\repos\\Final Project\\BookShopAPI\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "..\\BookShopAPI\\Controllers\\BillsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:57:57.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
